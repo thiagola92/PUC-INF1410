@@ -59,6 +59,8 @@ Uma pessoa ou grupo de pessoas responsáveis por gerenciar parte ou o projeto.
 ## Restrições em projetos
 
 ---
+---
+---
 
 Siglas  
 PMI = Project Management Institute  
