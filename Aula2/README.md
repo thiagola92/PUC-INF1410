@@ -34,3 +34,8 @@ Um resumo seria "os projetos surgem por necessidade de alguém". Os pontos lista
 
 ## Definição de Portfólio, Programa e Projeto
 ![Portfolio, Programa, Projeto](portfolio_programa_projeto.png)
+
+Se você ficar em dúvida de quem é o pai, basta botar em ordem alfabética.  
+Portfólio é pai de Programa e Projeto.  
+Programa é pai de Projeto.  
+Projeto é sempre o filho.  
