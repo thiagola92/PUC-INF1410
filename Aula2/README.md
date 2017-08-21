@@ -32,5 +32,5 @@ Um resumo seria "os projetos surgem por necessidade de alguém". Os pontos lista
 * Requisito legal
 * Necessidade social
 
-## Definição de Portfólio, Programa e Projeto.
+## Definição de Portfólio, Programa e Projeto
 ![Portfolio, Programa, Projeto](portfolio_programa_projeto.png)
