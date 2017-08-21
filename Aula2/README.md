@@ -39,3 +39,31 @@ Se você ficar em dúvida de quem é o pai, basta botar em ordem alfabética.
 Portfólio é pai de Programa e Projeto.  
 Programa é pai de Projeto.  
 Projeto é sempre o filho.  
+
+**Projeto**: Já vimos no início da aula o que é.  
+**Programa**: Um conjuto de projetos, como um objetivo pode ser difícil de ser alcança com apenas um projeto, dividimos em varios projetos menores e mais fáceis de serem feitos.  
+**Portfólio**: Um conjunto de programas e projetos afim de alcançar o objetivo final(?).  
+
+---
+---
+---
+
+## Gerenciamento de Projetos
+É nada mais que usar os conhecimentos, habilidades, ferramentas e técnicas para atender os requisitos do projeto.  
+
+## Escritório de Projetos
+> É uma entidade a qual são atribuídas várias responsabilidades relacionadas ao gerenciamento centralizado dos projetos sob seu domínio.  
+
+Uma pessoa ou grupo de pessoas responsáveis por gerenciar parte ou o projeto.  
+
+## Restrições em projetos
+
+---
+
+Siglas  
+PMI = Project Management Institute  
+PMBOK = Project Management Body of Knowledge  
+PMP = Project Management Profissional  
+GP = Gerencia de Projetos  
+
+## As 10 Áreas de Conhecimento do PMI
