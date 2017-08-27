@@ -73,7 +73,18 @@ E um Chefe dos Gerentes de Projetos.
 ![Organização de Matriz Forte](organizaçãodematrizforte.PNG)
 
 Vantagens:
-* 
+* ?
 
 Desvantagens:
-* 
+* ?
+
+### Organização Projetizada
+Os Gerentes Funcionais viram Gerentes de Projetos.
+
+![Organização Projetizada](organizaçãoprojetizada)
+
+Vantagens:
+* Os Gerente s de Projetos são gerentes mesmo.
+
+Desvantagens:
+* Não tem garantia de pessoal técnico. Note que você pega geral de uma mesma área. 
