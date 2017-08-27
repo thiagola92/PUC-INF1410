@@ -65,6 +65,12 @@ PMP = Project Management Profissional
 GP = Gerencia de Projetos  
 
 ## Ciclo de vida de um projeto
+Os 5 **grupos de processos** são:  
+* **Iniciação**: Processo de definir um novo projeto ou nova etapa de um projeto existente, obtendo permissão para começar projeto/etapa.
+* **Planejamento**: Nesse processo requer estabelecer o escopo do projeto, redefinir o objetivo e define o curso de ações requerido para chegar no objetivo.
+* **Execução**: Nesse processo tenta completar o trabalho definido durante o gerenciamento do projeto de maneira que satisfaça as especificações do projeto.
+* **Monitoramente e controle**: Nesse processo você rastrea, revisa e regulariza o progresso e performace do projeto, identifica qualquer área em que mudanças são requeridas e inicializa as mudanças correspondentes.
+* **Encerramento**: Nesse processo tenta finalizar todas as atividades e **grupos de processos** para formalmente finalizar o projeto ou etapa.
 
 ![Ciclo de vida](ciclodevida.PNG)
 
