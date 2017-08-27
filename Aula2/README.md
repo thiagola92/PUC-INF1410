@@ -48,13 +48,9 @@ Projeto é sempre o filho.
 ---
 ---
 
-## Gerenciamento de Projetos
-É nada mais que usar os conhecimentos, habilidades, ferramentas e técnicas para atender os requisitos do projeto.  
+## Gerenciamento de Projetos 
 
 ## Escritório de Projetos
-> É uma entidade a qual são atribuídas várias responsabilidades relacionadas ao gerenciamento centralizado dos projetos sob seu domínio.  
-
-Uma pessoa ou grupo de pessoas responsáveis por gerenciar parte ou o projeto.  
 
 ## Restrições em projetos
 
@@ -68,4 +64,20 @@ PMBOK = Project Management Body of Knowledge
 PMP = Project Management Profissional  
 GP = Gerencia de Projetos  
 
+## Ciclo de vida de um projeto
+
+![Ciclo de vida](ciclodevida.PNG)
+
 ## As 10 Áreas de Conhecimento do PMI
+https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge#Knowledge_areas
+
+* Escopo
+* Tempo
+* Custos
+* Qualidade
+* Stakeholders
+* Recursos Humanos
+* Comunicação
+* Riscos
+* Aquisições
+* Integração
