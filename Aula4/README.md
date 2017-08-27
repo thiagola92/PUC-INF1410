@@ -31,16 +31,49 @@ Como a estrutura da empresa atrapalha ou ajuda a gerênciar projetos.
 
 ### Organização Funcional
 Cada coluna de Gerente Funcional é um área (por exemplo, área de TI, área de Engenharia, ...).  
-Cada Staff em amarelo foi a pessoa selecionada da área para o projeto.  
+Cada Staff em verde foi a pessoa selecionada da área para o projeto.  
 
 ![Organização Funcional](organizaçãofuncional.PNG)
 
 Vantagens:
 * Garante que vai ter o recurso técnico. Já que Gerente Funcional é chefe da Staff, a Staff não pode recusar trabalhar no projeto(ao menos que queira ser demitido).  
+
 Desvantagens:
 * Gerente Funcional já tem que gerênciar as áreas deles, agora vai ter que gerênciar projetos também.  
 
 ### Organização de Matriz Fraca
+Cada Gerente Funcional delega a Gestão de Projeto para alguém da Staff.  
 
 ![Organização de Matriz Fraca](organizaçãodematrizfraca.PNG)
 
+Vantagens:
+* Garante os recursos técnicos. Pois você seleciona um membro de cada área.
+
+Desvantagens:
+* Coordenação feita. Tudo tem que falar com o Chefe.
+* Conflito. Quem não foi selecionado para a Gestão do Projeto pode não gostar, isso causa rivalidade.
+
+### Organização de Matriz Balanceada
+Dentro das pessoas selecionadas na matriz fraca uma é capacitada em Gestão de Projetos, ou seja, vira Gerente do Projeto.
+
+![Organização de Matriz Balanceada](organizaçãodematrizbalanceada.PNG)
+
+Vantagens:
+* Acaba com o conflito da Matriz Fraca, pois um é capacitado na área, ou seja, ele foi selecionada justamente por causa dessa qualidade.
+
+Desvantagens:
+* Vai dar mais atenção para o projeto dentro da área dele.  
+* Pode acontecer conflito entre Gerente Funcional e Gerente do Projeto.
+* Agora está sobrecarregando alguém que tem que fazer o trabalho da área dele + gerênciar projeto.
+
+### Organização de Matriz Forte
+Existe tem uma área de Gerentes de Projetos, onde os Gerentes de Projetos tem o mesmo nível dos membros da Staff.  
+E um Chefe dos Gerentes de Projetos.
+
+![Organização de Matriz Forte](organizaçãodematrizforte.PNG)
+
+Vantagens:
+* 
+
+Desvantagens:
+* 
