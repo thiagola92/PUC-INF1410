@@ -35,7 +35,7 @@ Ordem de Grandeza: Preço estimado de orçamento. Não quer dizer que vai ser o 
 Se você bota orçamento de 1 milhão e o custo acaba sendo de 2 milhões, isso é péssimo.  
 Se você bota orçamento de 1 milhão e o custo acaba sendo 500 mil, também foi ruim. Nesse caso é porque você reservou 500 mil para nada, esses 500 mil podiam estar indo para outros projetos.  
 **Designação do Gerente de Projetos e do Patrocinador**  
-?
+?  
 **Premissas**  
 `(verdades assumidas)`  
 
