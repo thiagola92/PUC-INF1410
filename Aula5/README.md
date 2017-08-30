@@ -29,12 +29,16 @@ Vocês não sabem como vão fazer, mas já sabem o que vão entregar.
 Por exemplo, data de entrega do trabalho, data de fechar lista de convidados de festa...  
 **Orçamento Resumido**  
 `(quais as expectativas de custos)`  
-Custo, no nosso caso vai ser Homem Hora que a gente costuma trabalhar.  
-Também o custo das coisas que precisamos comprar para o Projeto.  
-**Designação do Gerente de Projetos e do Patrocinador**  
+Custo, no nosso caso vai ser Homem Hora que a gente costuma trabalhar e também o custo das coisas que precisamos comprar para o Projeto. É apenas uma idéia de preço.  
 
+Ordem de Grandeza: Preço estimado de orçamento. Não quer dizer que vai ser o preço final.  
+Se você bota orçamento de 1 milhão e o custo acaba sendo de 2 milhões, isso é péssimo.  
+Se você bota orçamento de 1 milhão e o custo acaba sendo 500 mil, também foi ruim. Nesse caso é porque você reservou 500 mil para nada, esses 500 mil podiam estar indo para outros projetos.  
+**Designação do Gerente de Projetos e do Patrocinador**  
+?
 **Premissas**  
 `(verdades assumidas)`  
+
 **Restrições**  
 `(fatores que limitam as minhas escolhas)`  
 
