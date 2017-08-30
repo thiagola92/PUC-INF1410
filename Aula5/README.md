@@ -41,6 +41,3 @@ Se você bota orçamento de 1 milhão e o custo acaba sendo 500 mil, também foi
 
 **Restrições**  
 `(fatores que limitam as minhas escolhas)`  
-
-
-### Identificar Stakeholders
