@@ -7,6 +7,8 @@ Em português "partes interessadas".
 Stakeholder pode afetar **ou** ser afetado por uma decisão/resultado do projeto.  
 Stakeholder pode ser afetados ou afetar de maneira positiva **ou** negativa.  
 
+---
+
 Importante notar que stakeholder é apenas aqueles afetados diretamente pelo projeto. Exemplo:   
 Seu projeto é um filme.  
 Exemplos de stakeholders: O fornecedor de lugar para filmar o filme, a empresa que vai fazer os efeitos do filme, camerman, diretor, ator, quem vai vender comida para a sua equipe que ta fazendo o filme, roterista...  
