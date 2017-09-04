@@ -81,6 +81,8 @@ Na hora de classificar um stakeholder, nós separamos em 4 categorias. Para deci
 |                                   | **Positivo**                      | **Negativo**    |
 |                                   |                                   |                 |
 
+![Stakeholders Categorias](stakeholderscategorias.PNG)
+
 ---
 
 Gerente de Projeto não entra na matriz de stakeholders pois teremos que desenvolver uma estratégia para cada stakeholder na matriz,  não faz sentido fazer uma estratégia para si mesmo. No caso do patrocinador você tem que desenvolver uma estratégia para que ele continue patrocinando.  
