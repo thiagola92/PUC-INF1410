@@ -41,9 +41,45 @@ Lembre das matrizes, nelas os gerentes funcionais controlam uma área e se quere
 ![Principais Stakeholder](principaisstakeholders.PNG)
 
 ### Stakeholders primários
+Influencia diretamente o projeto.  
 
+* Funcionários
+* Clientes
+* Concorrentes
+* Fornecedores
+* Proprietários
 
+Nem todo stakeholders quer que você se de bem, olhando acima você vê "concorrentes" que é justamente esse caso. Eles não querem que você se de bem e influência diratamente o projeto.  
 
+![Stakeholders primários](stakeholdersprimnarios.PNG)
+
+### Stakeholders secundários
+Não estão diretamente ao projeto mas tem influência.  
+Podem estar cagando pro seu projeto, não ligam para o que faz, mas tem influência nele.
+
+* Governo internacional
+* Governo dosméstico
+* Imprensa
+* Grupo ambientalistas
+* Comunidades
+* Analistas financeiros
+* Organizações não governamentais (ONG)
+* Instituições financeiras
+
+![Stakeholders secundários](stakeholderssecundarios.PNG)
+
+### Identificação de Stakeholders
+Na hora de classificar um stakeholder, nós separamos em 4 categorias. Para decidir em qual categoria um stakeholder vai ir, nós analisamos duas coisas   
+
+* Grau de Influência no Projeto: **Baixo** ou **Alto**
+* Grau de Interesse no Projeto: **Positivo** ou **Negativo**
+
+|                                   |                                   |                 |
+| :-------------------------------: | :-------------------------------: | :-------------: |
+| **Alto**                          | Aliado                            | Bloqueadores    |
+| **Baixo**                         | Membros da Rede                   | Desaceleradores |
+|                                   | **Positivo**                      | **Negativo**    |
+|                                   |                                   |                 |
 
 ---
 
