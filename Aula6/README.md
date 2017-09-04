@@ -51,7 +51,7 @@ Influencia diretamente o projeto.
 
 Nem todo stakeholders quer que você se de bem, olhando acima você vê "concorrentes" que é justamente esse caso. Eles não querem que você se de bem e influência diratamente o projeto.  
 
-![Stakeholders primários](stakeholdersprimnarios.PNG)
+![Stakeholders primários](stakeholdersprimarios.PNG)
 
 ### Stakeholders secundários
 Não estão diretamente ao projeto mas tem influência.  
