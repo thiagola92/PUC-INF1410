@@ -1,43 +1,88 @@
 # Aula 5
 
-## Iniciação
+## Stakeholder
+Em português "partes interessadas".
 
-### Termo de Abertura
-Objetivo desse documento:  
-Passar informações sobre o que é o Projeto.  
-E dar poderes ao Gerente de Projeto.  
+É um indivíduo **ou** grupo **ou** organização.  
+Stakeholder pode afetar **ou** ser afetado por uma decisão/resultado do projeto.  
+Stakeholder pode ser afetados ou afetar de maneira positiva **ou** negativa.  
 
-Dentro das informações fornecidas no Termo de Abertura temos:  
-**Justificativa**  
-`como chegamos até aqui`  
-Razão de existir, seja por necessidade de alguém ou por problema de alguém ou vontade de alguém.  
-**Objetivos**  
-`onde queremos chegar`  
-O que pretendemos fazer para que resolva o problema da justificativa, ou seja, para alcançar a razão de existir.  
-**Requisitos (visão inicial)**  
-`quais as caracteristicas principais do produto`  
-Componentes que compôem aquele produto/sistema  
-**Riscos (visão inicial)**  
-`o que nos precupa neste momento`  
-Os possíveis problemas que podem surgir que afetam esse Projeto.  
-Se já está acontecendo então não é um risco, é um fato.  
-Aqui são coisas que tem chance de acontecer.  
-**Cronograma de Marcos**  
-`(quais as expectativas de prazos)`  
-Grandes entregas (modulo1, modulo2...)  
-Vocês não sabem como vão fazer, mas já sabem o que vão entregar.  
-Por exemplo, data de entrega do trabalho, data de fechar lista de convidados de festa...  
-**Orçamento Resumido**  
-`(quais as expectativas de custos)`  
-Custo, no nosso caso vai ser Homem Hora que a gente costuma trabalhar e também o custo das coisas que precisamos comprar para o Projeto. É apenas uma idéia de preço.  
+---
 
-Ordem de Grandeza: Preço estimado de orçamento. Não quer dizer que vai ser o preço final.  
-Se você bota orçamento de 1 milhão e o custo acaba sendo de 2 milhões, isso é péssimo.  
-Se você bota orçamento de 1 milhão e o custo acaba sendo 500 mil, também foi ruim. Nesse caso é porque você reservou 500 mil para nada, esses 500 mil podiam estar indo para outros projetos.  
-**Designação do Gerente de Projetos e do Patrocinador**  
-?  
-**Premissas**  
-`(verdades assumidas)`  
+Importante notar que stakeholder é apenas aqueles afetados diretamente pelo projeto. Exemplo:   
+Seu projeto é um filme.  
+Exemplos de stakeholders: O fornecedor de lugar para filmar o filme, a empresa que vai fazer os efeitos do filme, camerman, diretor, ator, quem vai vender comida para a sua equipe que ta fazendo o filme, roterista...  
+Exemplos de **não** stakeholders: A pessoa que vê o filme, cachorro, lojas perto do cinema...  
 
-**Restrições**  
-`(fatores que limitam as minhas escolhas)`  
+Note que embora as pessoas que vejam o filme façam diferença pro filme ser um sucesso, não é o que estamos procurando quando fazemos o filme. Procuramos saber todos que afetam a produção do filme, uma vez que o filme está pronto, o problema é da pessoa que pediu para você projetar o filme. Se fosse nosso problema, não estariamos **gerenciando um projeto**, mas sim um **processo**.  
+
+---
+
+### Principais stakeholders
+
+**Gerente de Projeto**  
+Obviamente alguém que está trabalhando como Gerente de um Projeto quer que esse projeto vá bem.  
+
+**Cliente(customer)**  
+Cliente **não** é todo o mercado que vai consumir aquele produto, geralmente o cliente é quem contratou e é afetado diretamente pelo projeto.  
+Muitas vezes o cliente é o patrocinador.  
+
+**Equipe do Projeto**  
+Sem uma equipe para fazer o projeto, você não tem como fazer o projeto existir.  
+
+**Alta administração**  
+É ela que costuma conhecer/descobrir o patrocinador. Nem sempre todos da administração estão favoraveis ao seu projeto, você precisa saber quem são essas pessoas para conseguir o apoio delas.  
+
+**Sponsor do Projeto (patrocinador)**  
+
+**Gerente Funcional**  
+Lembre das matrizes, nelas os gerentes funcionais controlam uma área e se queremos ter recurso para o nosso projeto então precisamos estar de bem com eles.  
+
+![Principais Stakeholder](principaisstakeholders.PNG)
+
+### Stakeholders primários
+Influencia diretamente o projeto.  
+
+* Funcionários
+* Clientes
+* Concorrentes
+* Fornecedores
+* Proprietários
+
+Nem todo stakeholders quer que você se de bem, olhando acima você vê "concorrentes" que é justamente esse caso. Eles não querem que você se de bem e influência diratamente o projeto.  
+
+![Stakeholders primários](stakeholdersprimarios.PNG)
+
+### Stakeholders secundários
+Não estão diretamente ao projeto mas tem influência.  
+Podem estar cagando pro seu projeto, não ligam para o que faz, mas tem influência nele.
+
+* Governo internacional
+* Governo dosméstico
+* Imprensa
+* Grupo ambientalistas
+* Comunidades
+* Analistas financeiros
+* Organizações não governamentais (ONG)
+* Instituições financeiras
+
+![Stakeholders secundários](stakeholderssecundarios.PNG)
+
+### Identificação de Stakeholders
+Na hora de classificar um stakeholder, nós separamos em 4 categorias. Para decidir em qual categoria um stakeholder vai ir, nós analisamos duas coisas   
+
+* Grau de Influência no Projeto: **Baixo** ou **Alto**
+* Grau de Interesse no Projeto: **Positivo** ou **Negativo**
+
+|                                   |                                   |                 |
+| :-------------------------------: | :-------------------------------: | :-------------: |
+| **Alto**                          | Aliado                            | Bloqueadores    |
+| **Baixo**                         | Membros da Rede                   | Desaceleradores |
+|                                   | **Positivo**                      | **Negativo**    |
+|                                   |                                   |                 |
+
+![Stakeholders Categorias](stakeholderscategorias.PNG)
+
+---
+
+Gerente de Projeto não entra na matriz de stakeholders pois teremos que desenvolver uma estratégia para cada stakeholder na matriz,  não faz sentido fazer uma estratégia para si mesmo. No caso do patrocinador você tem que desenvolver uma estratégia para que ele continue patrocinando.  
