@@ -33,3 +33,13 @@ No primeiro momento se desenha a EAP.
 No segundo momento se cria o documento dicionario da EAP.  
 
 ![EAP árvore](EAPtree.png)
+
+Pacotes não podem ser divididos.  
+Pacote sempre é folha da árvore.  
+
+Existem 2 pacotes que sempre estão em todas EAP: Gerencia de Projeto e Encerramento.  
+Como esses dois trabalhos estão relacionados ao gerente de projeto e não à entrega do projeto, por isso que sempre tem em todos.  
+
+Como você sabe se tem que dividir? Se tem mais do que duas pessoas então tem que dividir.  
+Dividiu, como você sabe se tem que dividir de novo? Quando você olha pra ele e você **não** consegue mensurar uma estimativa de tempo.  
+Em outras palavras, se você consegue mensurar estimativa de tempo, é pacote.  
