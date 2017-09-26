@@ -1,14 +1,18 @@
 # Aula 7
 Vamos começar a ver dentro de **Planejamento**.  
-![Planejamento](planejamento.PNG)  
 
----
+## Planejar o gerenciamento de escopo
 ![Planjear Ger. Escopo](gerenciaescopo.PNG)
 
----
+Define o escopo.  
+Decide como ele será desenvolvido.  
+Decide como ele será controlado.  
+Decide como ele será validado.  
+
+Um documento com todas as regras do projeto.  
+Também define as regras dos planos das áreas de conhecimento, por exemplo, as regras de coletar requisitos ou de rastrear requisitos ou priorização de requisitos...  
 
 ## Coletar requisitos
-
 ![Coletar Requisitos](coletarrequisitos.PNG)
 
 ### Requisito funcionais  
