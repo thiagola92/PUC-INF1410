@@ -31,8 +31,8 @@ Sua calculadora precisa ser feita em Java.
 Sua calculadora precisa responder em menos de 1 segundo.  
 
 Existem 3 tipos de subcategorias de requisitos não funcionais:  
-* Produto: Especifica o comportamento do software  
-* Organizacional: Se adpatar a obrigações da empresa  
-* Externo: Derivados de coisas externas ao sistema  
+* **Produto**: Especifica o comportamento do software  
+* **Organizacional**: Se adpatar a obrigações da empresa  
+* **Externo**: Derivados de coisas externas ao sistema  
 
 [Wikipedia dos requisitos não funcionais](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional)
