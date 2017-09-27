@@ -29,7 +29,7 @@ Ferramenta que vai descrever todos os pacotes da EAP.
 
 Normalmente nele você tem:  
 * Número de identificação na EAP.
-* Nome.
+* Nome do pacote.
 * Descrição.
 * Critérios de aceitação.
 
@@ -38,3 +38,4 @@ As vezes botam também:
 * Recursos necessários.
 * Estimátiva de custo.
 * Estimátiva de prazo.
+* Responsável
