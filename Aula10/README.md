@@ -83,9 +83,9 @@ Existem 3 tipos de estimativas:
   * "Demorou 4 dias para fazer esse tipo de coisa na outra empresa"  
   * "A anos faço isso e o que você está pedindo costuma levar 7 dias"   
 * **Estimativa paramétrica**: Calculada baseada em parâmetros. Se fazer uma parte da atividade leva X dias, então fazer uma atividade igual três vezes maior, vai levar 3X.  
- * Tempo por linha de código  
- * Tempo por metro linear  
- * Tempo por instalação  
+  * Tempo por linha de código  
+  * Tempo por metro linear  
+  * Tempo por instalação  
 * **Estimativa de Três pontos**: Trabalha com 3 variáveis. É chamado de "Otimista, Mais provável, Pessimista", eu chamaria de "Melhor caso, caso médio, pior caso".  
- * No melhor caso essa atividade demora 2 dias, o mais provável é que dure 6 dias, no pior caso é 14 dias. Calculando chegamos a conclusão que deve demorar 6.6 dias.  
+  * No melhor caso essa atividade demora 2 dias, o mais provável é que dure 6 dias, no pior caso é 14 dias. Calculando chegamos a conclusão que deve demorar 6.6 dias.  
 ![Calculo dos três pontos](tresPontos.PNG) 
