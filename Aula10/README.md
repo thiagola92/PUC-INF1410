@@ -71,8 +71,21 @@ Duas atividades tem que começar na mesma data.
 ![Término-Término](tt.PNG)  
 Duas atividades tem que terminar na mesma data.  
 
-## Estimar recursos de atividades
+## Estimar Recursos de Atividades
 Estimar os recursos necessários para cada atividade.  
 Saber que pessoas vão atuar em cada atividade (os perfis que vão trabalhar naquele projeto).  
 ![Estrutura Analítica dos Recursos](ear.PNG)
 
+## Estimar Duração de Atividades
+Vamos estimar a duração de cada atividade.  
+Existem 3 tipos de estimativas:  
+* **Estimativa análoga**: Estimativa baseada em projetos parecidos anteriores, informações históricas e opinião de especialistas.  
+  * "Demorou 4 dias para fazer esse tipo de coisa na outra empresa"  
+  * "A anos faço isso e o que você está pedindo costuma levar 7 dias"   
+* **Estimativa paramétrica**: Calculada baseada em parâmetros. Se fazer uma parte da atividade leva X dias, então fazer uma atividade igual três vezes maior, vai levar 3X.  
+ * Tempo por linha de código  
+ * Tempo por metro linear  
+ * Tempo por instalação  
+* **Estimativa de Três pontos**: Trabalha com 3 variáveis. É chamado de "Otimista, Mais provável, Pessimista", eu chamaria de "Melhor caso, caso médio, pior caso".  
+ * No melhor caso essa atividade demora 2 dias, o mais provável é que dure 6 dias, no pior caso é 14 dias. Calculando chegamos a conclusão que deve demorar 6.6 dias.  
+![Calculo dos três pontos](tresPontos.PNG) 
