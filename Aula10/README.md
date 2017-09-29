@@ -55,3 +55,9 @@ Você pode escrever o código e ir documentando conforme escreve **ou** escrever
 ![Dependência externas](depExternas.PNG)  
 Nesse caso a equipe quer colocar um tapete na sala, mas primeiro tem que receber o tapete para botar, como a atividade receber o tapete não depende da equipe para terminar mas sim dos fornecedores, virar uma atividade externa.  
 
+### Relações lógicas  
+![Término-Início](ti.PNG)  
+
+![Início-Término](it.PNG)  
+![Início-Início](ii.PNG)  
+![Término-Término](tt.PNG)  
