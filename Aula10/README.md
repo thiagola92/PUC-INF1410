@@ -36,3 +36,17 @@ Um diagrama que além de mostrar a ordem que precisa ser feito, mostra quais sã
 
 Outra maneira que esse diagrama pode ser representado é por uma tabela.  
 ![Tabela de Diagrama de Rede](tabelaRede.PNG)
+
+### Dependências
+Existe 3 tipos de dependências:  
+
+**Dependências Obrigatórias**:  
+Uma atividade depende da outra para começar.  
+![Dependência obrigatória](depObrigatoria.PNG)  
+Só pode testar o código depois que escrever ele.  
+
+**Dependências Arbitradas**:  
+
+![Dependência arbitradas](depArbitradas.PNG)  
+
+**Dependências Externas**:  
