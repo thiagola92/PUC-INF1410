@@ -19,6 +19,8 @@ Tem a função de decidir/criar o plano para gerênciar o cronograma, ou seja, a
 Na EAP, nós não obdecemos nenhuma ordem lógica de trabalho, apenas listamos pacotes e atividades. Nós iremos botar em ordem lógica quando estivermos em "Sequenciar atividades".  
 
 ## Definir Atividades
+![Definir Atividades](definirAtividades.PNG)
+
 As ações que precisam ser feitas para se completar pacotes de trabalho que vão produzir as entregas do projeto.  
 Com base nos pacotes de trabalhos da EAP, nós listamos as atividades necessárias para fazer o futuro cronograma.  
 ![Atividades](atividades.PNG)
@@ -26,6 +28,8 @@ Com base nos pacotes de trabalhos da EAP, nós listamos as atividades necessári
 Nessa imagem aquele subproduto é como se fosse um pacote.
 
 ## Sequênciar Atividades
+![Sequênciar Atividades](sequenciarAtividades.PNG)
+
 Depois de lista as atividades, precisamos sequênciar elas, botar em uma ordem lógica. A ordem em que vai ser feito.  
 Isso nos ajuda a ver que atividade precisa que outra seja feito primeiro, ou quais podem ser feito em paralelo.  
 ![Sequência das Atividades](sequencia.PNG)
@@ -72,11 +76,15 @@ Duas atividades tem que começar na mesma data.
 Duas atividades tem que terminar na mesma data.  
 
 ## Estimar Recursos de Atividades
+![Estimar Recursos](estimarRecursos.PNG)
+
 Estimar os recursos necessários para cada atividade.  
 Saber que pessoas vão atuar em cada atividade (os perfis que vão trabalhar naquele projeto).  
 ![Estrutura Analítica dos Recursos](ear.PNG)
 
 ## Estimar Duração de Atividades
+![Estimar Duração](estimarDuracao.PNG)
+
 Vamos estimar a duração de cada atividade.  
 Existem 3 tipos de estimativas:  
 * **Estimativa análoga**: Estimativa baseada em projetos parecidos anteriores, informações históricas e opinião de especialistas.  
