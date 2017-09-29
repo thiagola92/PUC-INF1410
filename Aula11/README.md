@@ -55,4 +55,5 @@ Ou seja, a data de início cedo é igual a de início tarde **e** data de térmi
 Resolvendo aquela rede, podemos ver que o caminho crítico é aquele formado por atividades críticas.  
 ![Rede 9](rede9.PNG)  
 
+### Como calcular folgas
 
