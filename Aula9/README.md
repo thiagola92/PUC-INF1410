@@ -39,3 +39,5 @@ As vezes botam também:
 * Estimátiva de custo.
 * Estimátiva de prazo.
 * Responsável
+
+Um pacote são feitos de uma ou várias **atividades**.  
