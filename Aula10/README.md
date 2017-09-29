@@ -57,7 +57,22 @@ Nesse caso a equipe quer colocar um tapete na sala, mas primeiro tem que receber
 
 ### Relações lógicas  
 ![Término-Início](ti.PNG)  
+Atividade só começa depois que uma outra terminar.   
 
 ![Início-Término](it.PNG)  
+Quando uma atividade iniciar, a outra tem que terminar.  
+Qual diferença dessa para anterior?  
+A anterior é: Só pode começar a testar depois que escrever o código.  
+Essa é: Quando a dia 20 chegar, nós temos que lançar o programa.  
+
 ![Início-Início](ii.PNG)  
+Duas atividades tem que começar na mesma data.  
+
 ![Término-Término](tt.PNG)  
+Duas atividades tem que terminar na mesma data.  
+
+## Estimar recursos de atividades
+Estimar os recursos necessários para cada atividade.  
+Saber que pessoas vão atuar em cada atividade (os perfis que vão trabalhar naquele projeto).  
+![Estrutura Analítica dos Recursos](ear.PNG)
+
