@@ -21,7 +21,6 @@ Na EAP, nós não obdecemos nenhuma ordem lógica de trabalho, apenas listamos p
 ## Definir Atividades
 As ações que precisam ser feitas para se completar pacotes de trabalho que vão produzir as entregas do projeto.  
 Com base nos pacotes de trabalhos da EAP, nós listamos as atividades necessárias para fazer o futuro cronograma.  
-
 ![Atividades](atividades.PNG)
 
 Nessa imagem aquele subproduto é como se fosse um pacote.
@@ -29,5 +28,11 @@ Nessa imagem aquele subproduto é como se fosse um pacote.
 ## Sequênciar Atividades
 Depois de lista as atividades, precisamos sequênciar elas, botar em uma ordem lógica. A ordem em que vai ser feito.  
 Isso nos ajuda a ver que atividade precisa que outra seja feito primeiro, ou quais podem ser feito em paralelo.  
-
 ![Sequência das Atividades](sequencia.PNG)
+
+### Diagrama de rede
+Um diagrama que além de mostrar a ordem que precisa ser feito, mostra quais são dependentes das outras atividades.  
+![Diagrama de Rede](diagramaRede.PNG)
+
+Outra maneira que esse diagrama pode ser representado é por uma tabela.  
+![Tabela de Diagrama de Rede](tabelaRede.PNG)
