@@ -46,7 +46,12 @@ Uma atividade depende da outra para começar.
 Só pode testar o código depois que escrever ele.  
 
 **Dependências Arbitradas**:  
-
+Vai depender da decisão da empresa/gerente.  
 ![Dependência arbitradas](depArbitradas.PNG)  
+Você pode escrever o código e ir documentando conforme escreve **ou** escrever o código e depois documentar.  
 
 **Dependências Externas**:  
+É como se fosse uma dependência obrigatória porém é não depende do grupo/equipe fazer algo, mas sim de alguém de fora fazer algo.  
+![Dependência externas](depExternas.PNG)  
+Nesse caso a equipe quer colocar um tapete na sala, mas primeiro tem que receber o tapete para botar, como a atividade receber o tapete não depende da equipe para terminar mas sim dos fornecedores, virar uma atividade externa.  
+
