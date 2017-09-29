@@ -48,5 +48,11 @@ Se uma atividade pode enrolar até dia 9 e outra até dia 11, e essas ambas ativ
 Se você enrolasse até o dia 11, você estaria atrasando a outra atividade em 2 dias.  
 ![Rede 7](rede7.PNG)  
 
+Com isso você consegue descobrir as "atividades críticas", são as que as datas não podem ser alteradas.  
+Ou seja, a data de início cedo é igual a de início tarde **e** data de término cedo é igual a de término tarde.  
+![Rede 8](rede8.PNG)  
+
+Resolvendo aquela rede, podemos ver que o caminho crítico é aquele formado por atividades críticas.  
+![Rede 9](rede9.PNG)  
 
 
