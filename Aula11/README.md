@@ -55,5 +55,12 @@ Ou seja, a data de início cedo é igual a de início tarde **e** data de térmi
 Resolvendo aquela rede, podemos ver que o caminho crítico é aquele formado por atividades críticas.  
 ![Rede 9](rede9.PNG)  
 
-### Como calcular folgas
+### Folga total
+**Folgas total** é quantos dias você pode ficar sem fazer nada naquela atividade sem que afete a duração do projeto.  
+Isso é possível de calcular de varias maneiras, mas todos os resultados dão no mesmo, então escolha o que preferir.  
+Se você começando o mais cedo **possível** terminaria dia 7 e começando o mais tarde **possível** terminaria dia 10, quer dizer que tem 3 dias dessa atividade pode ser atrasado.  
 
+![Folgas](folgas.PNG)
+
+### Folga livre
+**Folga livre** 
