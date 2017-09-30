@@ -64,3 +64,5 @@ Se você começando o mais cedo **possível** terminaria dia 7 e começando o ma
 
 ### Folga livre
 **Folga livre** 
+
+![Folgas Livre](folgas livre.PNG)
