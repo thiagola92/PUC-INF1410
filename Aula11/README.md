@@ -63,6 +63,18 @@ Se você começando o mais cedo **possível** terminaria dia 7 e começando o ma
 ![Folgas](folgas.PNG)
 
 ### Folga livre
-**Folga livre** 
+**Folga livre** é quantos dias uma atividade pode atrasar sem que afete a ativadade sucessora.  
+A única diferença dela para total é 
 
-![Folgas Livre](folgas livre.PNG)
+## Compressão (crashing)
+Tentar reduzir a duração de uma atividade, aumentando o número de pessoas ou aumentando os recursos ou pagando para acelerar essa atividade...  
+Se fossemos pegar alguém de outra atividade, pegariamos alguém de uma atividade que tem folga.  
+
+Normalmente se faz compressão em atividades que estão em caminho crítico.  
+![Crashing](crashing.PNG)
+
+## Paralelismo (fast tracking)
+Tentar trabalhar em atividades em paralelo, isso aumenta o risco de dar erros mas tenta acelerar (nem sempre funciona).  
+Se duas atividades demoram 5 dias, se começarem uma depois da outra, totaliza em 10 dias.  
+Fazendo em paralelo e começando junto, teoricamente terminaria juntas, totalizando 5 dias. Mas sabemos que paralelismo causa muitos problemas.  
+![Fast Tracking](fasttracking.PNG)
