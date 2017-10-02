@@ -81,7 +81,7 @@ Desvantagens:
 ### Organização Projetizada
 Os Gerentes Funcionais viram Gerentes de Projetos.
 
-![Organização Projetizada](organizaçãoprojetizada.PNG)
+![Organização Projetizada](oraganizaçãoprojetizada.PNG)
 
 Vantagens:
 * Os Gerente s de Projetos são gerentes mesmo.
