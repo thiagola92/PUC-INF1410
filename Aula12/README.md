@@ -18,8 +18,10 @@ Olhando todas as atividades que já foram definidas, você deve calcular os cust
 O orçamento não é necessariamente o orçamento final.  
 
 Maneiras de estimar custo: 
-* Estimativa por analogia (top-down): Funcionam que nem a estimativa de tempo
-* Estimativa paramétrica: Funcionam que nem a estimativa de tempo
-* Estimativa de Três Pontos: Funcionam que nem a estimativa de tempo
-* Estimativa bottom-up: Estimar o custo do projeto olhando de baixo para cima, usando o custo dos de baixo para descobrir o custo dos de cima.  
+* **Estimativa por analogia (top-down)**: Funcionam que nem a estimativa de tempo
+* **Estimativa paramétrica**: Funcionam que nem a estimativa de tempo
+* **Estimativa de Três Pontos**: Funcionam que nem a estimativa de tempo
+* **Estimativa bottom-up**: Estimar o custo do projeto olhando de baixo para cima, usando o custo dos de baixo para descobrir o custo dos de cima.  
   * ![Bottom-up](5.PNG)
+
+## Determinar Orçamento
