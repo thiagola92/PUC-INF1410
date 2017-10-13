@@ -12,6 +12,8 @@ Estamos falando de custos de coisas e precisamos gerenciar isso, para ajudar iss
 * **Descrição de como os processos de gerenciamento dos custos serão conduzidos e documentados**: Dita as regras de gestão de custos do projeto
 
 ## Estimar Custos
+![Planejar Ger. Custos](3.PNG)
+
 Olhando todas as atividades que já foram definidas, você deve calcular os custos para elas.  
 O orçamento não é necessariamente o orçamento final.  
 
