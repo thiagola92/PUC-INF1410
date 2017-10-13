@@ -21,4 +21,4 @@ Maneiras de estimar custo:
 * Estimativa de Três Pontos *
 * Estimativa bottom-up
 
-* Funcionam que nem a estimativa de tempo
+\* Funcionam que nem a estimativa de tempo
