@@ -24,7 +24,7 @@ Maneiras de estimar custo:
 * **Estimativa bottom-up**: Estimar o custo do projeto olhando de baixo para cima, usando o custo dos de baixo para descobrir o custo dos de cima.  
   * ![Bottom-up](5.PNG)
 
-\*Funcionam que nem a estimativa de tempo
+\*<sub>Funcionam que nem a estimativa de tempo</sub>
 
 ## Determinar Orçamento
 ![Determinar orçamento](4.PNG)
