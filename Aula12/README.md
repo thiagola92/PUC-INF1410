@@ -35,4 +35,12 @@ Maneiras de estimar custo:
 **Orçamento final do projeto**: ?  
 
 ### Planilha de custos
-![Planilha de custos](6.PNG)
+![Planilha de custos](6.PNG)  
+**Recurso** = Uma pessoa trabalhando  
+**Trab** = O quanto essa pessoa trabalho dentro de uma semana (geralmente é quanto ela trabalho em 5 dias pois sabado e domingo não conta)  
+
+### Orçamento Previsto
+![Orçamento previsto](7.PNG)
+Basicamente você faz uma planilha, sendo os dias a atividade com maior dias daquele pacote.  
+O quanto vai ser gasto em cada dia da atividade é o custo total antes calculado / dias.  
+No final você soma o quanto você vai gastar em cada dia para saber o gasto por dia.  
