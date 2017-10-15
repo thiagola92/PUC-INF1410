@@ -41,6 +41,6 @@ Maneiras de estimar custo:
 
 ### Orçamento Previsto
 ![Orçamento previsto](7.PNG)  
-Basicamente você faz uma planilha, sendo os dias a atividade com maior dias daquele pacote.  
-O quanto vai ser gasto em cada dia da atividade é o custo total antes calculado / dias.  
-No final você soma o quanto você vai gastar em cada dia para saber o gasto por dia.  
+A quantidade de dias é a atividade com mais dias.  
+O custo da atividade vai ser dividido pelos quantidade de dias que ela dura.  
+Descobri o quanto gastou por dia juntando o custo das atividades cada dia.  
