@@ -45,3 +45,6 @@ Maneiras de estimar custo:
 A quantidade de dias é a atividade com mais dias.  
 O custo da atividade vai ser dividido pelos quantidade de dias que ela dura.  
 Descobri o quanto gastou por dia juntando o custo das atividades cada dia.  
+
+Não necessariamente as atividades começam no mesmo dia, elas podem ser dependente uma da outra. Vamos supor que a atividade C depende da atividade A.  
+![Orçamento previsto 2](8.PNG)  
