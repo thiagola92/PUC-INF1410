@@ -27,10 +27,12 @@ Maneiras de estimar custo:
 \*Funcionam que nem a estimativa de tempo
 
 ## Determinar Orçamento
-
+![Determinar orçamento](4.PNG)
 **Estimativas de custos dos pacotes de trabalho projeto**: Justamente a estimativa feita anteriormente, por exemplo a bottom-up  
 **Reserva de contingência**: É o orçamento guardado para riscos (problemas que podem acontecer durante o projeto)  
 **Linha de base de custos**: ?  
 **Reserva de gerenciamento**: ?  
 **Orçamento final do projeto**: ?  
 
+### Planilha de custos
+![Planilha de custos](6.PNG)
