@@ -41,6 +41,7 @@ Maneiras de estimar custo:
 
 ### Orçamento Previsto
 ![Orçamento previsto](7.PNG)  
+\*<sub>Estamos usando a planilha anterior como base</sub>  
 A quantidade de dias é a atividade com mais dias.  
 O custo da atividade vai ser dividido pelos quantidade de dias que ela dura.  
 Descobri o quanto gastou por dia juntando o custo das atividades cada dia.  
