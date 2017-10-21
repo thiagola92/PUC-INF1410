@@ -58,3 +58,12 @@ Dias dos projetos e quantidade de tempo que foi trabalhado no projeto.
 Eixo X é dia 1/2/3...  
 Eixo Y é o tempo em horas gasto no projeto.  
 ![Histograma](4.PNG)  
+
+### Matriz de qualidade
+Para cada requisito não funcional, você deve deixar claro tudo para o requisito alcançar a qualidade desejada.  
+Como você mede se o requisito não funcional está funcionando? Usando essa tabela.   
+
+Requisito de qualidade: Requisito a ser analisado.   
+Ações para atingimento: Ação a ser tomada para que aumente o requisito não funcional esteja como desejado.  
+Indicadores: Indicadores/valores para sabermos se estamos alcançando o requisito.  
+![Matriz de qualidade](5.PNG)  
