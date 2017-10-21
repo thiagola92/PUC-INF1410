@@ -28,6 +28,7 @@
 
 ## Planejar Gerência de Qualidade
 Processo responsável por investigar/descobrir os padrões de qualidade para os requisitos, ou seja, o que precisa ser feito para alcançar a qualidade desejada.  
+![Planejar Gerência de Qualidade](2.PNG)
 
 ### Ferramentas básicas da qualidades
 
@@ -35,6 +36,7 @@ Processo responsável por investigar/descobrir os padrões de qualidade para os 
 * Lista de verificação  
 * Histograma  
 
-#### Diagrama de causa efeito
-Para saber o efeito que pode causar uma falha/erro, é usado esse diagrama.  
-
+#### Diagrama de causa efeito (ou espinha de peixe)
+Usado para saber o efeito de uma causa/falha/erro, ou seja, para saber quais causas levam a efeito.  
+Normalmente dividem em categorias, por isso que acaba com cara de espinha de peixe.  
+![Espinha de peixe](3.PNG)
