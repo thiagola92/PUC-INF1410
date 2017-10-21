@@ -67,3 +67,5 @@ Requisito de qualidade: Requisito a ser analisado.
 Ações para atingimento: Ação a ser tomada para que aumente o requisito não funcional esteja como desejado.  
 Indicadores: Indicadores/valores para sabermos se estamos alcançando o requisito.  
 ![Matriz de qualidade](5.PNG)  
+
+## Planejar Gerência de Stakeholders
