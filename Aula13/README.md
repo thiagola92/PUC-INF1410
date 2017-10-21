@@ -44,7 +44,14 @@ Normalmente dividem em categorias, por isso que acaba com cara de espinha de pei
 Esses items que estão como causa, são items que não podem surgir. Se surgirem vai surgir um produto com defeito.  
 
 #### Lista de verificação
-Serve para verificar a frequência de falha de cada produto.
+Serve para verificar a frequência de falha de cada produto.  
+
+| Produto  | Dia 1 | Dia 2 | Dia 3 | Total |
+| -------- | ----- | ----- | ----- | ----- |
+| Waffer   | 100   | 50    | 50    | 200   |
+| Recheado | 50    | 70    | 80    | 200   |
+| Salgado  | 50    | 50    | 55    | 155   |
+| Leite    | 80    | 85    | 79    | 244   |
 
 #### Histograma
 Dias dos projetos e quantidade de tempo que foi trabalhado no projeto.  
