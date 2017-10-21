@@ -39,4 +39,15 @@ Processo responsável por investigar/descobrir os padrões de qualidade para os 
 #### Diagrama de causa efeito (ou espinha de peixe)
 Usado para saber o efeito de uma causa/falha/erro, ou seja, para saber quais causas levam a efeito.  
 Normalmente dividem em categorias, por isso que acaba com cara de espinha de peixe.  
-![Espinha de peixe](3.PNG)
+![Espinha de peixe](3.jpg)  
+
+Esses items que estão como causa, são items que não podem surgir. Se surgirem vai surgir um produto com defeito.  
+
+#### Lista de verificação
+Serve para verificar a frequência de falha de cada produto.
+
+#### Histograma
+Dias dos projetos e quantidade de tempo que foi trabalhado no projeto.  
+Eixo X é dia 1/2/3...  
+Eixo Y é o tempo em horas gasto no projeto.  
+![Histograma](4.PNG)  
