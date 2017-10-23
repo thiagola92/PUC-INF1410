@@ -69,3 +69,18 @@ Indicadores: Indicadores/valores para sabermos se estamos alcançando o requisit
 ![Matriz de qualidade](5.PNG)  
 
 ## Planejar Gerência de Stakeholders
+![Planejar Ger. Stakeholders](7.PNG)  
+
+Continuidade da matriz stakeholders que tinhamos, agora vamos botar eles em uma das 5 categorias e dizer onde queremos que eles parem:  
+* **Desconhecedor** (Unware): Desconhece o projeto e os seus impactos potenciais.
+* **Resistencia** (Resistant): Conheceu o projeto e ficou contrário ao projeto.
+* **Neutro** (Neutral): Conheceu o projeto e ficou indiferente ao projeto.
+* **Ciente** (Supportive): Conheceu o projeto e ficou favorável ao projeto.
+* **Apoiador** (Leading): Conheceu o projeto e ficou ativamente ajudando.
+
+| Grau de envolvimento do Stakeholder | Atual      | Desejável   |
+| ----------------------------------- | ---------- | ----------- |
+| Stakeholder A                       | Desconhece | Apoiador    |
+| Stakeholder B                       | Desconhece | Resistencia |
+| Stakeholder C                       | Neutro     | Ciente      |
+
