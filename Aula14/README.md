@@ -5,9 +5,9 @@ Todo stackeholder na nossa matriz tem que ir parar na matriz comunicação.
 
 ## Barreiras em comunicação
 Barreira/ruídos são dificuldades que podem ocorrer quando necessita passar informação de uma pessoa para outra.  
+![Barreiras](2.png)
 
 ### Barreiras humanas
-![Barreiras](2.png)
 * **Limitações pessoais**
   * A pessoa fala baixo
   * A pessoa é gago
