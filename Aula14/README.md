@@ -94,9 +94,19 @@ A formula para saber quantos canais de comunicação vão ser é
 ## Matriz de comunicação
 Conhecido como 5W2H  
 **W**ho: Quem necessita? Quem envia?  
+Quem está enviando e quem está recebendo, na nossa matriz isso seria os stakeholders.  
 **W**hat: Qual informação?  
 **W**hy: Porque será informado?  
 **W**hen: Quando será informado?  
 **W**here: Onde acessar/armazenar?  
 **H**ow: Como será fornecido?  
 **H**ow much: Quanto custará a disponibilização?  
+
+| What             | Why                                                      | Who          | When      | Where               | How  |
+| ---------------- | -------------------------------------------------------- | ------------ | --------- | --------------------- | ------ |
+| ---------------- | -------------------------------------------------------- | ------------ | --------- | --------------------- | ------ |
+
+| Item de comunicação  | Propósito | Emissor | Quando | Meio de comunicação | Como |
+| -------------------- | --------- | ------- | ------ | ------------------- | ---- |
+| Status Report Diário | Informar o sponsor sobre andamento do projeto | Gerente de projetos | Sponsor | Diário | Email | Template do status report |
+| Controle de gastos | Informar ao gerente de projetos sobre os gastos do projeto e possíveis gastos mão previstos | Gerente de negócios | Gerente de projetos | Eventual | Reunião | Tempalte de ata de reunião |
