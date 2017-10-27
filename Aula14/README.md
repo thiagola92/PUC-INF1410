@@ -90,3 +90,13 @@ A formula para saber quantos canais de comunicação vão ser é
 * E-learning
 * Repositórios de conhecimento
 * Bota a informação em um site
+
+## Matriz de comunicação
+Conhecido como 5W2H  
+**W**ho: Quem necessita? Quem envia?  
+**W**hat: Qual informação?  
+**W**hy: Porque será informado?  
+**W**hen: Quando será informado?  
+**W**here: Onde acessar/armazenar?  
+**H**ow: Como será fornecido?  
+**H**ow much: Quanto custará a disponibilização?  
