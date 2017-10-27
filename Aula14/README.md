@@ -58,3 +58,9 @@ Barreira/ruídos são dificuldades que podem ocorrer quando necessita passar inf
   * Quando você vê uma sala com uma placa de raio, quer dizer que tem alguma coisa que da choque
 * **Cultura**
   * Certas coisas para um país é normal e em outro não é
+
+## Requisitos de comunicação
+Quanto mais pessoa maior a quantidade de canais de comunnicação.  
+![Quantidade de canais](3.png)  
+A formula para saber quantos canais de comunicação vão ser é  
+![Formula canais](4.PNG)  
