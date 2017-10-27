@@ -106,6 +106,8 @@ Quem está enviando e quem está recebendo, na nossa matriz isso seria os stakeh
 | ---------------- | -------------------------------------------------------- | ------------ | ----------- | ------------------ | ------ |
 | ---------------- | -------------------------------------------------------- | ------------ | ----------- | ------------------ | ------ |
 
+Exemplo de matriz comunicação:
+
 | Item de comunicação  | Propósito | Emissor | Quando | Meio de comunicação | Como |
 | -------------------- | --------- | ------- | ------ | ------------------- | ---- |
 | Status Report Diário | Informar o sponsor sobre andamento do projeto | Gerente de projetos | Sponsor | Diário | Email | Template do status report |
