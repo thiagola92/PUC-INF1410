@@ -71,6 +71,20 @@ A formula para saber quantos canais de comunicação vão ser é
 5 pessoas = 10 canais  
 
 ## Métodos de comunicação
-**Comunicação interativa**: 
-**Comunicação ativa**:  
-**Comunicação passiva**:  
+**Comunicação interativa**: Comunicação onde a resposta é instantânea, ou seja, uma outra pessoa pode reagir na hora sobre uma informação que você passou.  
+  * Reuniões
+  * Conferência por telefone
+  * Videoconferência
+**Comunicação ativa**: Comunicação onde um lado passa informação pro outro, ou seja, a outra pessoa vai receber a informação mas não vai ter chance de interromper a outra caso algo esteja errado.  
+  * E-mail
+  * Fax
+  * Relatórios
+  * Correio de voz
+  * Comunicados na imprensa
+  * Cartas
+  * Memorandos
+**Comunicação passiva**: Comunicação onde o outro lado tem que ir buscar a informação, ou seja, você deixa a informação em algum lugar e o outro lado da comunicação tem que ir olhar.  
+  * Intranet
+  * E-learning
+  * Repositórios de conhecimento
+  * Bota a informação em um site
