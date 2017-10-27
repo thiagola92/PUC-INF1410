@@ -64,3 +64,13 @@ Quanto mais pessoa maior a quantidade de canais de comunnicação.
 ![Quantidade de canais](3.png)  
 A formula para saber quantos canais de comunicação vão ser é  
 ![Formula canais](4.PNG)  
+
+2 pessoas = 1 canal  
+3 pessoas = 3 canais  
+4 pessoas = 6 canais  
+5 pessoas = 10 canais  
+
+## Métodos de comunicação
+**Comunicação interativa**: 
+**Comunicação ativa**:  
+**Comunicação passiva**:  
