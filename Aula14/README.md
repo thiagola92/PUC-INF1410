@@ -52,5 +52,9 @@ Barreira/ruídos são dificuldades que podem ocorrer quando necessita passar inf
   * Palavras com o mesmo sinônimo
 * **Tradução da linguagem**
   * Varias expressões que em um local quer dizer uma coisa e outro lugar é outra coisa
+  * Erros de concordância
 * **Significado dos sinais e símbolos**
+  * Quando você vê uma sala com uma placa caveira, quer dizer que tem alguma coisa tóxicas
+  * Quando você vê uma sala com uma placa de raio, quer dizer que tem alguma coisa que da choque
 * **Cultura**
+  * Certas coisas para um país é normal e em outro não é
