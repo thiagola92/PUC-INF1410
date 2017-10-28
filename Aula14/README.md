@@ -96,11 +96,17 @@ Conhecido como 5W2H
 **W**ho: Quem necessita? Quem envia?  
 Quem está enviando e quem está recebendo, na nossa matriz isso seria os stakeholders.  
 **W**hat: Qual informação?  
+Qual a informação que você vai passar, seja ela passiva, ativa ou interativa.  
 **W**hy: Porque será informado?  
+Qual o objetivo de passar essa informação. Aqui que você tenta atender a 'estratégia para o stalkeholder'.  
 **W**hen: Quando será informado?  
+Quando que vai ser informado, diaramente, mensalmente, a cada x dias, eventulamente...  
 **W**here: Onde acessar/armazenar?  
+Local onde você vai disponibilizar para passar informação pássiva.  
 **H**ow: Como será fornecido?  
+Qual ferramente vai usar para disponibilizar a informação. Pen drive, email, facebook, whatsapp, botar em um site...  
 **H**ow much: Quanto custará a disponibilização?  
+Custo de passar essa informação, se for botar em site, geralmente tem custo pagar o site.  
 
 | What             | Why                                                      | Who          | When        | Where              | How  |
 | ---------------- | -------------------------------------------------------- | ------------ | ----------- | ------------------ | ------ |
@@ -112,3 +118,15 @@ Exemplo de matriz comunicação:
 | -------------------- | --------- | ------- | ------ | ------------------- | ---- |
 | Status Report Diário | Informar o sponsor sobre andamento do projeto | Gerente de projetos | Sponsor | Diário | Email | Template do status report |
 | Controle de gastos | Informar ao gerente de projetos sobre os gastos do projeto e possíveis gastos mão previstos | Gerente de negócios | Gerente de projetos | Eventual | Reunião | Tempalte de ata de reunião |
+
+**Temos que comunicar todos os stakeholders do projeto da maneira que eles querem ser comunicados**
+
+### Tipos de comunicações a serem inseridas na matriz
+**Obrigatórias**  
+
+
+**Informativas**  
+
+
+**Marketing**  
+
