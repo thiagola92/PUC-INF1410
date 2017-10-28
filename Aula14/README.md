@@ -123,10 +123,17 @@ Exemplo de matriz comunicação:
 
 ### Tipos de comunicações a serem inseridas na matriz
 **Obrigatórias**  
-
+Quando uma informação é passada por obrigação, seja regras da empresa, ou indústria, ou pela força da lei. Informação que você tem que passar aos stakeholders.  
+Exemplos: Relatórios, reuniões de andamento do projeto, relatórios exigidos pelos acionistas, relatórios exigidos pelo conselho de diretores, relatórios exigidos pelo governo, relatórios financeiros...  
 
 **Informativas**  
-
+Quando uma informação é passada pois vocês acham que é importante informar. Normalmente você passa informação que você acha que interessa os stakeholders.  
+Exemplos: **F**requented **A**sked **Q**uestions, entregas do projeto, informações sobre o projeto...  
 
 **Marketing**  
+Quando uma informação é passada de maneira a promover o projeto,  ou aumentar o entusiasmo sobre o projeto. Geralmente muda a forma como as pessoas executam seus trabalhos, pode dar um boost na equipe/empresa.  
+Exemplos: Boletim informativo sobre o projeto com informações positivas, palestras, apresentações, concursos com prêmios simpless para criar entusiasmo, souvenirs com logo ou nome do projeto.  
+
+# Processos do Planejamento
+![Processo do planejamento](5.PNG)  
 
