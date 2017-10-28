@@ -136,4 +136,9 @@ Exemplos: Boletim informativo sobre o projeto com informações positivas, pales
 
 # Processos do Planejamento
 ![Processo do planejamento](5.PNG)  
+Nessa parte você descobre os items que precisam ser comprados e quais precisam ser feitos.  
 
+## Make or Buy
+**Make**: Entrega vai ser feita toda internamente.  
+**Buy**: Entrega vai ser feita com contratação externa.  
+![Make or Buy](6.PNG)
