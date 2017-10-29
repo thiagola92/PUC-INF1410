@@ -108,16 +108,16 @@ Qual ferramente vai usar para disponibilizar a informação. Pen drive, email, f
 **H**ow much: Quanto custará a disponibilização?  
 Custo de passar essa informação, se for botar em site, geralmente tem custo pagar o site.  
 
-| What | Why | Who | Who | When | Where | How |
-| - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - |
+| Tipo | What | Why | Who | Who | When | Where | How |
+| - | - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - | - |
 
 Exemplo de matriz comunicação:
 
-| Item de comunicação  | Propósito | Emissor | Receptor | Quando | Meio de comunicação | Como |
-| -------------------- | --------- | ------- | -------- | ------ | ------------------- | ---- |
-| Status Report Diário | Informar o sponsor sobre andamento do projeto | Gerente de projetos | Sponsor | Diário | Email | Template do status report |
-| Controle de gastos | Informar ao gerente de projetos sobre os gastos do projeto e possíveis gastos mão previstos | Gerente de negócios | Gerente de projetos | Eventual | Reunião | Tempalte de ata de reunião |
+| Tipo | Item de comunicação  | Propósito | Emissor | Receptor | Quando | Meio de comunicação | Como |
+| ---- || -------------------- | --------- | ------- | -------- | ------ | ------------------- | ---- |
+| Obrigatório | Status Report Diário | Informar o sponsor sobre andamento do projeto | Gerente de projetos | Sponsor | Diário | Email | Template do status report |
+| Obrigatório | Controle de gastos | Informar ao gerente de projetos sobre os gastos do projeto e possíveis gastos mão previstos | Gerente de negócios | Gerente de projetos | Eventual | Reunião | Tempalte de ata de reunião |
 
 **Temos que comunicar todos os stakeholders do projeto da maneira que eles querem ser comunicados**
 
