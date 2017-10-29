@@ -115,7 +115,7 @@ Custo de passar essa informação, se for botar em site, geralmente tem custo pa
 Exemplo de matriz comunicação:
 
 | Tipo | Item de comunicação  | Propósito | Emissor | Receptor | Quando | Meio de comunicação | Como |
-| ---- || -------------------- | --------- | ------- | -------- | ------ | ------------------- | ---- |
+| ---- | -------------------- | --------- | ------- | -------- | ------ | ------------------- | ---- |
 | Obrigatório | Status Report Diário | Informar o sponsor sobre andamento do projeto | Gerente de projetos | Sponsor | Diário | Email | Template do status report |
 | Obrigatório | Controle de gastos | Informar ao gerente de projetos sobre os gastos do projeto e possíveis gastos mão previstos | Gerente de negócios | Gerente de projetos | Eventual | Reunião | Tempalte de ata de reunião |
 
