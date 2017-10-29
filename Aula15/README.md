@@ -4,7 +4,7 @@
 ## Definição de Risco
 Risco é uma incerteza que, se ocorrer, pode ter um efeito positivo ou negativo sobre um ou mais objetivos do projeto.
 
-**Sintomas(trigger)**: Mostra sinal de que algum risco existe.  
+**Sintomas**(trigger): Mostra sinal de que algum risco existe.  
 * Quando você começa a tossir, é um sintoma que mostra que tem o risco de você ficar gripado.  
 * Quando a maquina começa a ficar lenta, é um sintoma que tem o risco da maquina pode parar.  
 
@@ -20,4 +20,5 @@ Risco é uma incerteza que, se ocorrer, pode ter um efeito positivo ou negativo 
 ## Exposição ao risco
 Exposição ao risco = Probabilidade x Impacto  
 
-![Exposição ao risco](2.PNG)
+![Exposição ao risco](2.PNG)  
+
