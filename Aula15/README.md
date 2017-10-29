@@ -19,6 +19,15 @@ Risco é uma incerteza que, se ocorrer, pode ter um efeito positivo ou negativo 
 
 ## Exposição ao risco
 Exposição ao risco = Probabilidade x Impacto  
-
 ![Exposição ao risco](2.PNG)  
+
+Nós temos que nos precupar com os 4 riscos, pois eles podem ir mudando conforme o projeto (impacto crescer/diminuir, probabilidade crescer/diminuir)  
+
+## Percepção de Risco
+
+**Risk Avoider**:   
+
+**Risk Neutral**:   
+
+**Risk-Taker**:   
 
