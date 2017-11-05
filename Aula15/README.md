@@ -71,5 +71,9 @@ Fala o que acontece numa gerência de riscos, em outras palavras fala de:
 **Delphi**: Uma pessoa recebe todos os riscos e ele compila/filtra todos os riscos  
 
 ### SWOT
+Strength, Weakness, Opportunities and Threats.  
+Não é tão usado pelo pessoal.  
+![SWOT](8.png)  
 
-# Processos de planejamento
+# Realizar análise qualitativa
+![Realizar análise qualitativa](9.PNG)  
