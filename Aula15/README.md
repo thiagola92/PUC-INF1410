@@ -173,3 +173,17 @@ Qual o papel do GP neste processo?
 
 O papel do GP NÃO é apagar incêndios e sim evitá-los.  
 
+# Realizar garantia da qualidade
+![Realizar garantia da qualidade](15.PNG)   
+Basicamente é assegurar e ficar verificando que os objetivos estão sendo seguidos, por exemplo, que a qualidade da matriz responsabilidade estão tentando ser alcançados (ou seja que o projeto está sempre melhorando).  
+
+# Mobilizar equipe
+![mobilizar equipe](16.PNG)  
+Obter a equipe necessária para o projeto e recursos humanos para que a equipe possa trabalhar no projeto.  
+
+## Fatores críticos
+**Disponibilidade**: Será que você tem o membro que deseja? Quem está disponível?   
+**Capacidade**: Será que ele tem o que precisa para o projeto?  
+**Experiência**: Quais as experiências do membro para o projeto?  
+**Interesse**: O membro tem interesse no projeto?  
+**Custo**: Quanto vai custar esse membro?  
