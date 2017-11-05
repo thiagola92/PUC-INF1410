@@ -71,7 +71,7 @@ Fala o que acontece numa gerência de riscos, em outras palavras fala de:
 **Delphi**: Uma pessoa recebe todos os riscos e ele compila/filtra todos os riscos  
 
 ### SWOT
-Strength, Weakness, Opportunities and Threats.  
+**S**trength, **W**eakness, **O**pportunities and **T**hreats.  
 Não é tão usado pelo pessoal.  
 ![SWOT](8.png)  
 
@@ -79,7 +79,7 @@ Não é tão usado pelo pessoal.
 ![Realizar análise qualitativa](9.PNG)  
 
 ## Matriz GUT
-Gravidade, Urgência e Tendência.  
+**G**ravidade, **U**rgência e **T**endência.  
 
 | Pontos | Gravidade | Urgência | Tendência |
 | ------ | --------- | -------- | --------- |
@@ -98,6 +98,8 @@ Exemplo:
 | Risco 3 | 2   | 3   | 4   | 24    | 3           |
 | Risco 4 | 4   | 3   | 4   | 48    | 1           |
 
-Total é calculado multiplicando o pontos do G, U e T.  
+**Total** é calculado multiplicando o pontos do G, U e T.  
 Risco 1 Total = 3x5x2 = 30  
-Risco 2 Total = 4x2x2 = 16...
+Risco 2 Total = 4x2x2 = 16...  
+
+**Priorização** é botar em ordem do maior total ser o número 1, o próximo maior ser 2...  
