@@ -151,3 +151,7 @@ Valor esperado do projeto = R$3.214.500,00 (3.000.000,00 + 214.500,00)
 * **Melhoria**: Melhorar os lucros que vem com aquele risco.  
 * **Aceitação**: Apenas aceita que essa melhoria vai acontecer e não tem como melhorar. 
 
+### Conceitos imporatntes
+
+**Risco residual**: Após a tentativa de metigar o risco, o risco que sobrou é chamado de risco residual.   
+**Risco secundário**: Após transferir ou eliminar um risco, se surgir um risco ele é chamado de risco secundário.  
