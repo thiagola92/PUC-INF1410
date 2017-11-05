@@ -91,9 +91,13 @@ Gravidade, Urgência e Tendência.
 
 Exemplo:  
 
-| Riscos | G | U | T | Total | Priorização |
-| ------ | --- | --- | --- | ----- | ----------- |
-| Risco 1 | 3 | 5 | 2 | 30 | 2 |
-| Risco 2 | 4 | 2 | 2| 16 | 4 |
-| Risco 3 | 2 | 3 | 4 | 24 | 3 |
-| Risco 4 | 4 | 3 | 4 | 48 | 1 |
+| Riscos  | G   | U   | T   | Total | Priorização |
+| ------- | --- | --- | --- | ----- | ----------- |
+| Risco 1 | 3   | 5   | 2   | 30    | 2           |
+| Risco 2 | 4   | 2   | 2   | 16    | 4           |
+| Risco 3 | 2   | 3   | 4   | 24    | 3           |
+| Risco 4 | 4   | 3   | 4   | 48    | 1           |
+
+Total é calculado multiplicando o pontos do G, U e T.  
+Risco 1 Total = 3x5x2 = 30  
+Risco 2 Total = 4x2x2 = 16...
