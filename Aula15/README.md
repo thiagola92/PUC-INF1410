@@ -132,6 +132,7 @@ Valor esperado do projeto = R$3.214.500,00 (3.000.000,00 + 214.500,00)
 ![planejar respostas](11.png)  
 
 ## Resposta aos riscos
+![resposta aos riscos](12.PNG)
 
 **Contenção (ameaça)**: Antes do risco virar um fato, mas tentando fazer não acontecer.  
 **Contingência (ameaça)**: Depois que vira um fato, tentando diminuir o efeito/prejuizo.  
