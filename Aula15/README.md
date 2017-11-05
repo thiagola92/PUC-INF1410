@@ -25,9 +25,12 @@ Nós temos que nos precupar com os 4 riscos, pois eles podem ir mudando conforme
 
 ## Percepção de Risco
 
-**Risk Avoider**:   
+**Risk-Taker**: Pessoas que gostam de correr risco. Por exemplo, pessoas que tem aplicação na bolsa de valores.     
 
-**Risk Neutral**:   
+**Risk Neutral**: Meio termo entre os dois.    
 
-**Risk-Taker**:   
+**Risk Avoider**: São avesso ao risco, ou seja, evitam riscos.    
 
+## Estrutura Analítica do Risco (EAR)
+Importante categorizar os riscos, por organização.   
+![EAR](3.png)  
