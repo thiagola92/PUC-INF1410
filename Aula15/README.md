@@ -130,3 +130,24 @@ Valor esperado do projeto = R$3.214.500,00 (3.000.000,00 + 214.500,00)
 
 # Planejar respostas
 ![planejar respostas](11.PNG)  
+
+## Resposta aos riscos
+
+**Contenção (ameaça)**: Antes do risco virar um fato, mas tentando fazer não acontecer.  
+**Contingência (ameaça)**: Depois que vira um fato, tentando diminuir o efeito/prejuizo.  
+
+**Alavancagem (oportunidade)**: Antes do risco virar um fato, mas tentando fazer que aconteça.  
+**Aproveitamento (oportunidade)**: Depois que vira um fato, tentando aproveitar o máximo possível.    
+
+### Respostas para riscos negativos
+* **Prevenção/Eliminação**: Eliminar a chance do risco acontecer.
+* **Mitigação**: Não elimina o risco, mas diminui a chance dele acontecer.
+* **Transferência**: Passa o risco para outra pessoa/empresa.  
+* **Aceitação**: Não tem nada que você possa fazer então você apenas aceita e prepara para as consequências. Passiva: Não tem nada que você possa fazer. Ativa: Você não pode fazer nada, mas caso vire um fato você pode fazer uma ação para corrigir.  
+
+### Respostas para riscos positivos
+* **Exploração**: Fazer com que o risco aconteça.  
+* **Compartilhamento**: Se reunir com outra empresa/acessor para que o risco vire um fato.
+* **Melhoria**: Melhorar os lucros que vem com aquele risco.  
+* **Aceitação**: Apenas aceita que essa melhoria vai acontecer e não tem como melhorar. 
+
