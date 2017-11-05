@@ -106,3 +106,11 @@ Risco 2 Total = 4x2x2 = 16...
 
 # Realizar análise quantitativa  
 ![realizar análise quantitativa](10.PNG)  
+
+## Ferramentas de quantificação dos riscos
+**Valor esperado do risco**  
+Valor Esperado = Probabilidade x Impacto  
+
+**Valor esperado do projeto**  
+Valor Esperado = Valor Base + ∑ VE Ameaças - ∑ VE Oportunidades  
+
