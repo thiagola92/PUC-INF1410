@@ -66,8 +66,10 @@ Fala o que acontece numa gerência de riscos, em outras palavras fala de:
 ![Fluxograma](6.png)  
 
 ### Técnicas de coleta de informações
-**Brainstorming**:  
-**Brainwriting**:  
-**Delphi**:  
+**Brainstorming**: Todo mundo fica numa sala física e começa a olhar as categorias do projeto e identificar os riscos.    
+**Brainwriting**: O mesmo que brainstorming mas sem ser físicamente no mesmo lugar  
+**Delphi**: Uma pessoa recebe todos os riscos e ele compila/filtra todos os riscos  
 
 ### SWOT
+
+# Processos de planejamento
