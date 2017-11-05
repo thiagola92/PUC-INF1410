@@ -32,5 +32,21 @@ Nós temos que nos precupar com os 4 riscos, pois eles podem ir mudando conforme
 **Risk Avoider**: São avesso ao risco, ou seja, evitam riscos.    
 
 ## Estrutura Analítica do Risco (EAR)
-Importante categorizar os riscos, por organização.   
+Escolher quais são as categorias dos riscos, isso é útil para a organização dos riscos.  
+
 ![EAR](3.png)  
+
+## Conteúdo de um plano de gerência de riscos
+Fala o que acontece numa gerência de riscos, em outras palavras fala de:  
+* Metodologia
+* Papéis e responsabilidades
+* Recursos para gerenciar os riscos
+* Frequência em que os riscos serão monitorados
+* Categorias de risco a serem utilizadas (EAR)
+* Definição de níveis de probabilidade e impacto (baixa, média, alta)
+* Revisão das tolerâncias das partes interessadas
+* Formatos de relatórios
+* Acompanhamento
+
+# Identificar Riscos
+![Identificar riscos](4.PNG)  
