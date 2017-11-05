@@ -156,3 +156,10 @@ Valor esperado do projeto = R$3.214.500,00 (3.000.000,00 + 214.500,00)
 
 **Risco residual**: Após a tentativa de metigar o risco, o risco que sobrou é chamado de risco residual.   
 **Risco secundário**: Após transferir ou eliminar um risco, se surgir um risco ele é chamado de risco secundário.  
+
+# Execução
+Falaremos agora da execução dos projetos.  
+![execução](13.PNG)  
+
+# Processos da Execução
+![processos da execução](14.PNG)
