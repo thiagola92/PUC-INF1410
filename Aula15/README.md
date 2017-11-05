@@ -60,6 +60,7 @@ Fala o que acontece numa gerência de riscos, em outras palavras fala de:
 ![Diagrama de causa e efeito](5.jpg)  
 
 **Diagrama de influência**:  
+![Diagrama de influência](7.png)  
 
 **Fluxograma**:  
 ![Fluxograma](6.png)  
