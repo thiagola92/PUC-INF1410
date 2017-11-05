@@ -103,3 +103,6 @@ Risco 1 Total = 3x5x2 = 30
 Risco 2 Total = 4x2x2 = 16...  
 
 **Priorização** é botar em ordem do maior total ser o número 1, o próximo maior ser 2...  
+
+# Realizar análise quantitativa  
+![realizar análise quantitativa](10.PNG)  
