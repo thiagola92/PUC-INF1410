@@ -56,12 +56,15 @@ Fala o que acontece numa gerência de riscos, em outras palavras fala de:
 **Analogia externa**: Olhando tudo que outros projetos similares ao de vocês fizeram.  
 
 ## Diagramas que ajudam a identificar os riscos
-**Diagrama de causa e efeito** (ou espinha de peixe):  
+
+### Diagrama de causa e efeito (ou espinha de peixe):  
 ![Diagrama de causa e efeito](5.jpg)  
 
-**Diagrama de influência**:  
+
+### Diagrama de influência:  
 ![Diagrama de influência](7.png)  
 
-**Fluxograma**:  
+
+### Fluxograma:  
 ![Fluxograma](6.png)  
 
