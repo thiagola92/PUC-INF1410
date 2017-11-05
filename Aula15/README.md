@@ -90,7 +90,9 @@ Gravidade, Urgência e Tendência.
 | 1 | Sem gravidade | Naõ tem pressa | Não vai piorar ou pode até melhorar |
 
 Exemplo:  
+
 | Riscos | G | U | T | Total | Priorização |
+| ------ | --- | --- | --- | ----- | ----------- |
 | Risco 1 | 3 | 5 | 2 | 30 | 2 |
 | Risco 2 | 4 | 2 | 2| 16 | 4 |
 | Risco 3 | 2 | 3 | 4 | 24 | 3 |
