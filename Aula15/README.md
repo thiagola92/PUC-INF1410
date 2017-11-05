@@ -114,3 +114,12 @@ Valor Esperado = Probabilidade x Impacto
 **Valor esperado do projeto**  
 Valor Esperado = Valor Base + ∑ VE Ameaças - ∑ VE Oportunidades  
 
+Exemplo:  
+
+| Evento do risco      | Probabilidade | Impacto       | Valor esperado |
+| -------------------- | ------------- | ------------- | -------------- |
+| Greve de fornecedor  | 50%           | +R$500.000,00 | +R$250.000,00  |
+| Protótipo funcionar  | 20%           | -R$200.000,00 | -R$40.000,00   |
+| Perder recurso-chave | 90%           | +R$5.000,00   | +R$4.500,00    |
+
+Somatório dos valores esperados: 214.500,00  
