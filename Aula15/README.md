@@ -50,3 +50,16 @@ Fala o que acontece numa gerência de riscos, em outras palavras fala de:
 
 # Identificar Riscos
 ![Identificar riscos](4.PNG)  
+
+## Ferramentas de identificação dos riscos
+**Analogia interna**: Olhando tudo que vocês fizeram até agora.  
+**Analogia externa**: Olhando tudo que outros projetos similares ao de vocês fizeram.  
+
+## Diagramas que ajudam a identificar os riscos
+**Diagrama de causa e efeito** (ou espinha de peixe):  
+![Diagrama de causa e efeito](5.jpg)  
+
+**Diagrama de influência**:  
+
+**Fluxograma**:  
+
