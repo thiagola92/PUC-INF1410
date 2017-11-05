@@ -161,6 +161,15 @@ Valor esperado do projeto = R$3.214.500,00 (3.000.000,00 + 214.500,00)
 Falaremos agora da execução dos projetos.  
 ![execução](13.PNG)  
 
-# Processos da Execução
-![processos da execução](14.PNG)  
-Orientar as pessoas do que vão fazer e gerênciar o que elas vão fazer (em outras palavras fazer o projeto sair do papel).
+# Orientar e gerenciar o trabalho do projeto
+![Orientar e gerenciar o trabalho do projeto](14.PNG)  
+Orientar as pessoas do que vão fazer e gerênciar o que elas vão fazer (em outras palavras fazer o projeto sair do papel).  
+
+Qual o papel do GP neste processo?
+* Facilitar o trabalho da equipe
+* Integrar as várias ações que estão acontecendo
+* Orientar o desempenho das atividades planejadas
+* Gerenciar as atividades técnicas
+
+O papel do GP NÃO é apagar incêndios e sim evitá-los.  
+
