@@ -126,4 +126,4 @@ Orçamento base do projeto XPTO = 3.000.000,00
 Somatório dos valores esperados: 214.500,00  
 Valor esperado do projeto = R$3.214.500,00 (3.000.000,00 + 214.500,00)  
 
-![ferramentas de quantificação dos riscos](11.PNG)  
+![ferramentas de quantificação dos riscos](11.png)  
