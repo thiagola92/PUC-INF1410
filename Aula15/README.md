@@ -62,4 +62,5 @@ Fala o que acontece numa gerência de riscos, em outras palavras fala de:
 **Diagrama de influência**:  
 
 **Fluxograma**:  
+![Fluxograma](6.png)  
 
