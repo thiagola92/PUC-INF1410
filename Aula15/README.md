@@ -77,3 +77,21 @@ Não é tão usado pelo pessoal.
 
 # Realizar análise qualitativa
 ![Realizar análise qualitativa](9.PNG)  
+
+## Matriz GUT
+Gravidade, Urgência e Tendência.  
+
+| Pontos | Gravidade | Urgência | Tendência |
+| ------ | --------- | -------- | --------- |
+| 5 | Os prejuízos ou dificuldades são extremamente graves | É necessária uma ação imediata | Se nada for feito, o agravamento da situação será imediato |
+| 4 | Muito graves | Com alguma urgência | Vai piorar a curto prazo |
+| 3 | Graves | O mais cedo possível | Vai piorar a médio prazo |
+| 2 | Pouco graves | Pode esperar um pouco | Vai piorar a longo prazo |
+| 1 | Sem gravidade | Naõ tem pressa | Não vai piorar ou pode até melhorar |
+
+Exemplo:  
+| Riscos | G | U | T | Total | Priorização |
+| Risco 1 | 3 | 5 | 2 | 30 | 2 |
+| Risco 2 | 4 | 2 | 2| 16 | 4 |
+| Risco 3 | 2 | 3 | 4 | 24 | 3 |
+| Risco 4 | 4 | 3 | 4 | 48 | 1 |
