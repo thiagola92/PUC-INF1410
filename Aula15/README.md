@@ -116,6 +116,8 @@ Valor Esperado = Valor Base + ∑ VE Ameaças - ∑ VE Oportunidades
 
 Exemplo:  
 
+Orçamento base do projeto XPTO = 3.000.000,00  
+
 | Evento do risco      | Probabilidade | Impacto       | Valor esperado |
 | -------------------- | ------------- | ------------- | -------------- |
 | Greve de fornecedor  | 50%           | +R$500.000,00 | +R$250.000,00  |
@@ -123,3 +125,4 @@ Exemplo:
 | Perder recurso-chave | 90%           | +R$5.000,00   | +R$4.500,00    |
 
 Somatório dos valores esperados: 214.500,00  
+Valor esperado do projeto = R$3.214.500,00  
