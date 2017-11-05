@@ -162,4 +162,5 @@ Falaremos agora da execução dos projetos.
 ![execução](13.PNG)  
 
 # Processos da Execução
-![processos da execução](14.PNG)
+![processos da execução](14.PNG)  
+Orientar as pessoas do que vão fazer e gerênciar o que elas vão fazer (em outras palavras fazer o projeto sair do papel).
