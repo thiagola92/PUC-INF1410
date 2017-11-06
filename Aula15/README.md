@@ -200,4 +200,17 @@ Problemas de equipes virtuais
 # Desenvolver Equipe
 Melhroar a copetência da equipe para que eles virem um bando.  
 
-![fase 1](17.PNG) ![fase 2](18.PNG) ![fase 3](19.PNG) ![fase 4](20.PNG) ![fase 5](21.PNG)
+## Fase 1
+![fase 1](17.PNG)  
+
+## Fase 2
+![fase 2](18.PNG)  
+
+## Fase 3
+![fase 3](19.PNG)  
+
+## Fase 4
+![fase 4](20.PNG)  
+
+## Fase 5
+![fase 5](21.PNG)
