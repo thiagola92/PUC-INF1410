@@ -187,3 +187,17 @@ Obter a equipe necessária para o projeto e recursos humanos para que a equipe p
 **Experiência**: Quais as experiências do membro para o projeto?  
 **Interesse**: O membro tem interesse no projeto?  
 **Custo**: Quanto vai custar esse membro?  
+
+## Equipes virtuais
+Problemas de equipes virtuais  
+* Atuam no projeto mas não estão fisicamente juntos
+* Comunicação eletrônica
+* Pessoas distantes geográficamente
+* Pessoas com dificuldades de mobilidade ou em home office
+* Dificuldade de comunicação
+* Sentimento de isolamento
+
+# Desenvolver Equipe
+Melhroar a copetência da equipe para que eles virem um bando.  
+
+![fase 1](17.PNG) ![fase 2](18.PNG) ![fase 3](19.PNG) ![fase 4](20.PNG) ![fase 5](21.PNG)
