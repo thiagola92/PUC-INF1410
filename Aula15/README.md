@@ -201,17 +201,28 @@ Problemas de equipes virtuais
 ![desenvolver equipe](22.PNG)  
 Melhroar a copetência da equipe para que eles virem um bando.  
 
+
 ## Fase 1
 ![fase 1](17.PNG)  
+Formatação  
+Pessoas estão perdidas ainda e não sabem a direção do projeto.  
 
 ## Fase 2
 ![fase 2](18.PNG)  
+Confusão/Conflito  
+Pessoas estão falando com as outras, tentando se entender e organizar.
 
 ## Fase 3
 ![fase 3](19.PNG)  
+Normatização  
+Todos tem o mesmo foco.  
 
 ## Fase 4
 ![fase 4](20.PNG)  
+Desempenho  
+Todos tem o mesmo foco e trabalham em equipe.  
 
 ## Fase 5
-![fase 5](21.PNG)
+![fase 5](21.PNG)  
+Desintegração  
+Projeto finaliza e todos se disperção.  
