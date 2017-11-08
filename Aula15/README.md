@@ -198,6 +198,7 @@ Problemas de equipes virtuais
 * Sentimento de isolamento
 
 # Desenvolver Equipe
+![desenvolver equipe](22.PNG)  
 Melhroar a copetência da equipe para que eles virem um bando.  
 
 ## Fase 1
