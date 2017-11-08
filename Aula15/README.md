@@ -226,3 +226,27 @@ Todos tem o mesmo foco e trabalham em equipe.
 ![fase 5](21.PNG)  
 Desintegração  
 Projeto finaliza e todos se disperção.  
+
+# Gerenciar equipe
+Em projetos se formam muitos conflitos e precisamos de maneira para resolvelos.  
+
+## Gerenciamento de Conflitos
+**Retirar/Evitar**: Não se meter no conflito, adiar até mais tarde ou deixar se resolver sozinho.  
+
+**Suavizar/Acomodar**: Tentar manter a harmonia, seja vendo os lados positivos ou abrindo mão de algo.  
+
+**Comprometer/Reconciliar**: Tentar buscar uma solução que deixe os dois lados felizes, procurar um equilibrio.  
+
+**Forçar/Direcionar**: É ditar o que vai ser e ignorar o desejo dos outros.  
+
+**Colaborar/Resolver o problema**: Quando todos trabalham juntos para resolver o problema. (melhor opção)  
+
+# Conduzir aquisições
+![conduzir aquisições](23.PNG)  
+Processo de pegar informações dos fornecedores, escolher os fornecedores e adjudicação de um contrato.  
+
+# Gerenciar comunicação
+![gerenciar comunicação](24.PNG)  
+
+# Gerenciar o engajamento dos stakeholders
+![gerenciar o engajamento dos stakeholders](25.PNG)  
