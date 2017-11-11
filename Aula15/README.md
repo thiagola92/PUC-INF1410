@@ -204,7 +204,7 @@ Melhroar a copetência da equipe para que eles virem um bando.
 
 ## Fase 1
 ![fase 1](17.PNG)  
-Formatação  
+Formação  
 Pessoas estão perdidas ainda e não sabem a direção do projeto.  
 
 ## Fase 2
