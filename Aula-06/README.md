@@ -1,4 +1,4 @@
-# Aula 7
+# Aula 6
 Vamos começar a ver dentro de **Planejamento**.  
 
 ## Planejar o gerenciamento de escopo
